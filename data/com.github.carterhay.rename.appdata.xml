@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019 Carter Hay <clccmh@gmail.com> -->
+<component type="desktop">
+    <id>com.github.carterhay.rename</id>
+    <metadata_license>CC0</metadata_license>
+    <name>Rename</name>
+    <summary>Making file management easier one bulk file rename at a time.</summary>
+    <description>
+        <p>Renames groups of files.</p>
+    </description>
+</component>

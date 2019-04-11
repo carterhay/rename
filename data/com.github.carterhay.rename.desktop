@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Rename
+GenericName=Bulk Rename Tool
+Comment=Provides utility to rename files in bulk
+Categories=Utility;
+Exec=com.github.carterhay.rename
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Bulk;Rename;
